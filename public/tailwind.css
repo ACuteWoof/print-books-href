@@ -1147,6 +1147,14 @@ a:hover {
   gap: 2rem;
 }
 
+.text-wrap {
+  text-wrap: wrap;
+}
+
+.break-all {
+  word-break: break-all;
+}
+
 .border-t {
   border-top-width: 1px;
 }
