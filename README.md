@@ -1,5 +1,7 @@
 # WoofPress
 
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acutewoof)
+
 ## What is this?
 
 When I started learning Latin, I was unironically shocked by the
