@@ -21,15 +21,14 @@ details about the book you want. Make sure the content you want in the book
 are available in the public domain.
 
 - Discord: @acutewoof
-
 - Email: sutharshanvithushan@gmail.com
-
 - Instagram: [@acutewoof](https://instagram.com/acutewoof)
 
 ## Support me
 
 If you want to donate:
-Monero: `AvKjLpQzaE8Aj8A4vgRyuUYsX7GdGo8SddcmMiHf1H2L55CGMUxKUmZUovZtWRkw9LuE4Zr6PRzQg9ivMeueGwa38YHx7u`
-Solana: `6BecuGmLuD7JJEbQuV7mNqUNZ3i8WPxNC5zL63oAhRJH`
-Bitcoin: `bc1pfa26nutqw2vnwltv6v4jh3ee34nduh9cta3x20kyr7v0ad4z4vhqsr9wrz`
-Buymeacoffee: [acutewoof](https://buymeacoffee.com/acutewoof)
+
+- Monero: `AvKjLpQzaE8Aj8A4vgRyuUYsX7GdGo8SddcmMiHf1H2L55CGMUxKUmZUovZtWRkw9LuE4Zr6PRzQg9ivMeueGwa38YHx7u`
+- Solana: `6BecuGmLuD7JJEbQuV7mNqUNZ3i8WPxNC5zL63oAhRJH`
+- Bitcoin: `bc1pfa26nutqw2vnwltv6v4jh3ee34nduh9cta3x20kyr7v0ad4z4vhqsr9wrz`
+- Buymeacoffee: [acutewoof](https://buymeacoffee.com/acutewoof)
