@@ -1154,10 +1154,6 @@ a:hover {
   display: grid;
 }
 
-.h-full {
-  height: 100%;
-}
-
 .min-h-screen {
   min-height: 100vh;
 }
@@ -1172,10 +1168,6 @@ a:hover {
 
 .flex-col {
   flex-direction: column;
-}
-
-.justify-between {
-  justify-content: space-between;
 }
 
 .gap-1 {
@@ -1220,21 +1212,12 @@ a:hover {
   background-color: rgb(10 10 10 / var(--tw-bg-opacity));
 }
 
-.bg-stone-900 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(28 25 23 / var(--tw-bg-opacity));
-}
-
 .p-12 {
   padding: 3rem;
 }
 
 .p-4 {
   padding: 1rem;
-}
-
-.text-justify {
-  text-align: justify;
 }
 
 .font-display {
@@ -1257,20 +1240,6 @@ a:hover {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
-.font-semibold {
-  font-weight: 600;
 }
 
 .text-blue-200 {
@@ -1317,8 +1286,12 @@ a:hover {
 }
 
 @media (min-width: 1280px) {
-  .xl\:flex {
-    display: flex;
+  .xl\:grid {
+    display: grid;
+  }
+
+  .xl\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .xl\:grid-cols-4 {
@@ -1328,10 +1301,5 @@ a:hover {
   .xl\:text-7xl {
     font-size: 4.5rem;
     line-height: 1;
-  }
-
-  .xl\:text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
   }
 }
