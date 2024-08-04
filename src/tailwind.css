@@ -15,4 +15,22 @@
   a.exception:hover {
     @apply bg-transparent text-white decoration-white;
   }
+  .entry {
+    @apply bg-stone-900 p-4 flex flex-col gap-4 justify-between h-full;
+  }
+  .entrycontent {
+    @apply flex flex-col gap-4;
+  }
+  .buttons {
+    @apply flex gap-4;
+  }
+  .entry h2 {
+    @apply text-xl font-semibold;
+  }
+  .entry p {
+    @apply text-justify;
+  }
+  .subnote {
+    @apply text-xs xl:text-sm;
+  }
 }
