@@ -135,7 +135,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: IBM Plex Mono, ui-monospace, SFMono-Regular;
   /* 1 */
   font-feature-settings: normal;
   /* 2 */
@@ -1186,6 +1186,14 @@ a:hover {
   text-align: justify;
 }
 
+.font-display {
+  font-family: Modern Antiqua, serif;
+}
+
+.font-mono {
+  font-family: IBM Plex Mono, ui-monospace, SFMono-Regular;
+}
+
 .font-serif {
   font-family: IBM Plex Serif, ui-serif, Georgia, serif;
 }
@@ -1195,14 +1203,23 @@ a:hover {
   line-height: 1;
 }
 
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-}
-
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.text-blue-200 {
+  --tw-text-opacity: 1;
+  color: rgb(191 219 254 / var(--tw-text-opacity));
 }
 
 .text-white {
@@ -1228,5 +1245,10 @@ a:hover {
   .xl\:text-7xl {
     font-size: 4.5rem;
     line-height: 1;
+  }
+
+  .xl\:text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
   }
 }
