@@ -1182,8 +1182,8 @@ a:hover {
   font-family: IBM Plex Serif, ui-serif, Georgia, serif;
 }
 
-.text-7xl {
-  font-size: 4.5rem;
+.text-5xl {
+  font-size: 3rem;
   line-height: 1;
 }
 
@@ -1215,5 +1215,10 @@ a:hover {
 
   .xl\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xl\:text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
   }
 }
