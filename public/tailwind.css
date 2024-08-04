@@ -1285,6 +1285,12 @@ a:hover {
   }
 }
 
+@media (min-width: 1024px) {
+  .lg\:gap-16 {
+    gap: 4rem;
+  }
+}
+
 @media (min-width: 1280px) {
   .xl\:grid {
     display: grid;
