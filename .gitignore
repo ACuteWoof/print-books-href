@@ -128,3 +128,7 @@ public/tailwind.css
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# my stuff
+extra
+public
