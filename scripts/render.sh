@@ -2,6 +2,8 @@
 
 cd "${0%/*}"
 
+[ ! -d ../public ] && mkdir ../public
+
 echo "" > ../public/index.html || touch ../public/index.html
 
 cp ../src/public/* ../public/.

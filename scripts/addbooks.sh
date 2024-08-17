@@ -2,6 +2,8 @@
 
 cd "${0%/*}"
 
+[ ! -d ../extra ] && mkdir ../extra
+
 echo "" > ../extra/books.html || touch ../extra/books.html
 
 while IFS="|" read -r TITLE AUTHOR SUBNOTE DESCRIPTION IMAGE LULU PRICE PDF; do
