@@ -1,6 +1,6 @@
 # WoofPress
 
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acutewoof)
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acutewoof) ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/woofpress?style=for-the-badge)
 
 ## What is this?
 
