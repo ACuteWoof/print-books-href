@@ -18,15 +18,23 @@
       rel="stylesheet"
     />
   </head>
-  <body class="m-0 min-h-screen bg-neutral-950 text-white font-serif">
+  <body class="m-0 min-h-screen font-serif">
     <main class="p-12 flex flex-col gap-8 lg:gap-16">
       <div>
-      	<h1 class="mb-2 font-display text-5xl xl:text-7xl">WoofPress</h1>
-	<div class="flex gap-2">
-	<a href="#about">About</a>
-	<a href="#request">Request books</a>
-	<a href="#donate">Support me</a>
+        <h1 class="mb-2 font-display text-5xl xl:text-7xl">WoofPress</h1>
+	<div class="flex justify-between gap-2">
+        <div class="flex gap-2">
+          <a href="#about">About</a>
+          <a href="#request">Request books</a>
+          <a href="#donate">Support me</a>
+        </div>
+          <div class="accent-orange-500 flex gap-2 items-center">
+            <input type="checkbox" checked="checked" id="dark" />
+            <label for="group" class="">
+              <span>Dark Mode</span>
+            </label>
+          </div>
+	</div>
       </div>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
-	      <!-- books start -->
+      <div class="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-4">
+        <!-- books start -->
