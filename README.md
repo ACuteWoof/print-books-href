@@ -22,7 +22,7 @@ You can request books by emailing me (or messaging me on other platforms)
 details about the book you want. Make sure the content you want in the book
 are available in the public domain.
 
-- Discord: @acutewoof
+- Discord: @schizophrenicsegfault
 - Email: sutharshanvithushan@gmail.com
 - Instagram: [@acutewoof](https://instagram.com/acutewoof)
 
