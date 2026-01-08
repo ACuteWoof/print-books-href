@@ -3,34 +3,22 @@
 @tailwind utilities;
 
 body {
-  @apply bg-white text-neutral-950 transition-all duration-500 *:transition-all *:duration-500;
-}
-body:has(#dark:checked) {
-  @apply bg-neutral-950 text-white;
+  @apply text-white bg-neutral-950 transition-all duration-500 *:transition-all *:duration-500;
 }
 a {
   @apply underline leading-none underline-offset-2 transition-all duration-150 ease-in-out;
 }
 a:hover {
-  @apply bg-neutral-950 !text-white decoration-neutral-950;
-}
-body:has(#dark:checked) a:hover {
-  @apply bg-white !text-black decoration-white;
+  @apply text-neutral-950 bg-white decoration-white;
 }
 a.exception {
   @apply leading-none underline-offset-2 transition-all duration-150 ease-in-out;
 }
 a.exception:hover {
-  @apply bg-transparent text-neutral-950 decoration-neutral-950;
-}
-body:has(#dark:checked) a.exception:hover {
-  @apply text-white decoration-white;
+  @apply bg-transparent text-white decoration-white;
 }
 .entry {
-  @apply bg-stone-100 p-4 flex flex-col gap-4 justify-between h-full;
-}
-body:has(#dark:checked) .entry {
-  @apply bg-stone-800;
+  @apply bg-stone-900/90 p-4 flex flex-col gap-4 justify-between h-full;
 }
 .entrycontent {
   @apply flex flex-col gap-4;
@@ -48,26 +36,14 @@ body:has(#dark:checked) .entry {
   @apply text-xs xl:text-sm;
 }
 .bottom-border {
-  @apply border-stone-200;
-}
-body:has(#dark:checked) .bottom-border {
-  @apply !border-stone-700;
+  @apply border-stone-700;
 }
 .bottom-border div {
-  @apply prose prose-neutral;
-}
-body:has(#dark:checked) .bottom-border div {
-  @apply prose-invert;
+  @apply prose prose-neutral prose-invert;
 }
 footer {
-  @apply prose prose-neutral !max-w-none;
-}
-body:has(#dark:checked) footer {
-  @apply prose-invert;
+  @apply prose prose-neutral !max-w-none prose-invert;
 }
 .link-text {
-  @apply text-blue-900;
-}
-body:has(#dark:checked) .link-text {
   @apply text-blue-200;
 }
