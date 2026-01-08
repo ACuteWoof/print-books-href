@@ -8,7 +8,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      serif: ["IBM Plex Serif", "ui-serif", "Georgia", "serif"],
+      serif: ["EB Garamond", "ui-serif", "Georgia", "serif"],
       mono: ["IBM Plex Mono", "ui-monospace", "SFMono-Regular"],
       display: ["Modern Antiqua", "serif"],
     },
