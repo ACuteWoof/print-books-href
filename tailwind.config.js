@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        main: 'url("https://lewoof.xyz/api/background")',
+        main: 'url("https://lewoof.xyz/assets/images/background.jpg")',
       },
     },
     fontFamily: {
