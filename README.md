@@ -30,6 +30,6 @@ are available in the public domain.
 
 If you want to donate:
 
-- Solana: `JDkK2kpBmPm6YyYnLYNHpw8FhKyZ9AQ2CQTqj6BQxFKY`
-- Bitcoin: `bc1qh5m8v9xyd8l4yc7d3qfs5a83rqk3eukcjlw6sh`
+- Solana: `GHHPYZDDyXmwPLnQPEBgXAD9FzZmDPhCbVRpgqxuEpQ3`
+- Bitcoin: `bc1qqzqw40g566rmyvafrccjagktmd9nqvyqwcz6jh`
 - Buymeacoffee: [acutewoof](https://buymeacoffee.com/acutewoof)
